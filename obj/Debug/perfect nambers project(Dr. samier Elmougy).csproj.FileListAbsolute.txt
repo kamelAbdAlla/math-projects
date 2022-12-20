@@ -1,0 +1,8 @@
+C:\Users\kamel M. Abdalla\Desktop\perfect nambers project(Dr. samier Elmougy)\perfect nambers project(Dr. samier Elmougy)\bin\Debug\perfect_nambers_project_Dr.samier_Elmougy_.exe.config
+C:\Users\kamel M. Abdalla\Desktop\perfect nambers project(Dr. samier Elmougy)\perfect nambers project(Dr. samier Elmougy)\bin\Debug\perfect_nambers_project_Dr.samier_Elmougy_.exe
+C:\Users\kamel M. Abdalla\Desktop\perfect nambers project(Dr. samier Elmougy)\perfect nambers project(Dr. samier Elmougy)\bin\Debug\perfect_nambers_project_Dr.samier_Elmougy_.pdb
+C:\Users\kamel M. Abdalla\Desktop\perfect nambers project(Dr. samier Elmougy)\perfect nambers project(Dr. samier Elmougy)\obj\Debug\perfect nambers project(Dr. samier Elmougy).csproj.AssemblyReference.cache
+C:\Users\kamel M. Abdalla\Desktop\perfect nambers project(Dr. samier Elmougy)\perfect nambers project(Dr. samier Elmougy)\obj\Debug\perfect nambers project(Dr. samier Elmougy).csproj.SuggestedBindingRedirects.cache
+C:\Users\kamel M. Abdalla\Desktop\perfect nambers project(Dr. samier Elmougy)\perfect nambers project(Dr. samier Elmougy)\obj\Debug\perfect nambers project(Dr. samier Elmougy).csproj.CoreCompileInputs.cache
+C:\Users\kamel M. Abdalla\Desktop\perfect nambers project(Dr. samier Elmougy)\perfect nambers project(Dr. samier Elmougy)\obj\Debug\perfect_nambers_project_Dr.samier_Elmougy_.exe
+C:\Users\kamel M. Abdalla\Desktop\perfect nambers project(Dr. samier Elmougy)\perfect nambers project(Dr. samier Elmougy)\obj\Debug\perfect_nambers_project_Dr.samier_Elmougy_.pdb

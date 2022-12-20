@@ -1,0 +1,8 @@
+C:\Users\kamel M. Abdalla\Desktop\Prime Numbers project (Dr. Samir El Mougy)\Prime Numbers project (Dr. Samir El Mougy)\obj\Debug\Prime Numbers project (Dr. Samir El Mougy).csproj.AssemblyReference.cache
+C:\Users\kamel M. Abdalla\Desktop\Prime Numbers project (Dr. Samir El Mougy)\Prime Numbers project (Dr. Samir El Mougy)\obj\Debug\Prime Numbers project (Dr. Samir El Mougy).csproj.SuggestedBindingRedirects.cache
+C:\Users\kamel M. Abdalla\Desktop\Prime Numbers project (Dr. Samir El Mougy)\Prime Numbers project (Dr. Samir El Mougy)\obj\Debug\Prime Numbers project (Dr. Samir El Mougy).csproj.CoreCompileInputs.cache
+C:\Users\kamel M. Abdalla\Desktop\Prime Numbers project (Dr. Samir El Mougy)\Prime Numbers project (Dr. Samir El Mougy)\bin\Debug\Prime_Numbers_project__Dr.Samir_El_Mougy_.exe.config
+C:\Users\kamel M. Abdalla\Desktop\Prime Numbers project (Dr. Samir El Mougy)\Prime Numbers project (Dr. Samir El Mougy)\bin\Debug\Prime_Numbers_project__Dr.Samir_El_Mougy_.exe
+C:\Users\kamel M. Abdalla\Desktop\Prime Numbers project (Dr. Samir El Mougy)\Prime Numbers project (Dr. Samir El Mougy)\bin\Debug\Prime_Numbers_project__Dr.Samir_El_Mougy_.pdb
+C:\Users\kamel M. Abdalla\Desktop\Prime Numbers project (Dr. Samir El Mougy)\Prime Numbers project (Dr. Samir El Mougy)\obj\Debug\Prime_Numbers_project__Dr.Samir_El_Mougy_.exe
+C:\Users\kamel M. Abdalla\Desktop\Prime Numbers project (Dr. Samir El Mougy)\Prime Numbers project (Dr. Samir El Mougy)\obj\Debug\Prime_Numbers_project__Dr.Samir_El_Mougy_.pdb
